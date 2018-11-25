@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/todo-lutfy/static/css/1.e5bea60d.chunk.css"
   },
   {
-    "revision": "3aa3fec0100ff482b044c23d42cc7774",
+    "revision": "dbd362020d9c9db9f66a7251f561f2ea",
     "url": "/todo-lutfy/index.html"
   }
 ];

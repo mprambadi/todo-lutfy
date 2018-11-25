@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/todo-lutfy/precache-manifest.a9e994081d77ea3f7614b2b4f27d8fc0.js"
+  "/todo-lutfy/precache-manifest.eef705b26eea45e90492952ee7e47f8b.js"
 );
 
 workbox.clientsClaim();
